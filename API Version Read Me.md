@@ -155,15 +155,6 @@ Execute the script in PowerShell:
 
 ---
 
-## Contact
-
-**Author:** James Christopher Gooch  
-**Email:** jamescgooch@me.com  
-
-For questions, suggestions, or contributions, feel free to reach out or submit a pull request.
-
----
-
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
